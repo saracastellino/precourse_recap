@@ -1,23 +1,23 @@
 
-Conditional (if, else)
+# Conditional (if, else)
 coding_status = true
 if true
   puts "I'm coding"
 else puts "Hem, I wasn't sleeping, I promise!"
 end
 
-Function
+# Function
 def greeting
   puts "Hello"
 end
 
-Array
+# Array
 array = ["Hello", 1, 5.6]
 
-Hash
+# Hash
 fridge = {apples: 3, hummus: 1, ham: 2}
 
-Loop
+# Loop
 i = 0
 while i < 10
   puts "I love Ruby"
