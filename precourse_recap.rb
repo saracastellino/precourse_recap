@@ -10,12 +10,15 @@ end
 def greeting
   puts "Hello"
 end
+greeting
 
 # Array
 array = ["Hello", 1, 5.6]
+p array
 
 # Hash
 fridge = {apples: 3, hummus: 1, ham: 2}
+p fridge
 
 # Loop
 i = 0
